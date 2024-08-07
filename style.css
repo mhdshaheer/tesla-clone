@@ -1,10 +1,11 @@
+/* universal prperty */
 *{
     margin: 0;
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
-
+/* nav-bar */
 .navbar{
     width: 100%;
     height: 50px;
@@ -52,6 +53,8 @@
     color: black;
     cursor: pointer;
 }
+/* end of nav-bar */
+/* home page */
 .home-img{
     width: 100%;
     height: 850px;
@@ -103,6 +106,7 @@
 sup{
     font-size: 10px;
 }
+/* section-2 */
 .section-2{
     width: 100%;
     height: 800px;
@@ -130,6 +134,7 @@ sup{
     top: 73%;
     left: 35%;
 }
+/* section-3 */
 .section-3{
     width: 100%;
     height: 800px;
@@ -141,6 +146,7 @@ sup{
     top: 73%;
     left: 35%;
 }
+/* section-4 */
 .section-4{
     width: 100%;
     height: 800px;
@@ -152,6 +158,7 @@ sup{
     top: 73%;
     left: 35%;
 }
+/* section-5 */
 .section-5{
     width: 100%;
     height: 800px;
@@ -189,6 +196,7 @@ sup{
 .truck-button button:hover{
     background-color: rgba(46, 44, 44, 0.821);
 }
+/* section-6 */
 .section-6{
     width: 100%;
     height: 800px;
@@ -203,6 +211,7 @@ sup{
     top: 73%;
     left: 35%;
 }
+/* section-7 */
 .section-7{
     width: 100%;
     height: 800px;
@@ -214,6 +223,7 @@ sup{
     top: 73%;
     left: 35%;
 }
+/* section-8 */
 .section-8{
     width: 100%;
     height: 800px;
@@ -225,6 +235,7 @@ sup{
     top: 73%;
     left: 35%;
 }
+/* section-9 */
 .section-9{
     width: 100%;
     height: 800px;
@@ -236,6 +247,8 @@ sup{
     top: 83%;
     left: 43%;
 }
+/* end of body */
+/* footer */
 .footer{
     width: 100%;
     height: 500px;
@@ -272,3 +285,4 @@ sup{
 .foot-bottom{
     margin-top: 70px;
 }
+/* end of footer */
